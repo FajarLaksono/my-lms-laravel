@@ -1,0 +1,19 @@
+Catatan : 
+ -
+
+Perbaikan artikel : 
+ - [Array] tambah mengubah elemen dengan aritmatika
+
+Idea :
+ - [artikel]Membersihkan layar
+ - [artikel]Merubah warna konsol
+ - [artikel]nothrow
+ - semua Standar Liblary
+
+To do :
+ - Ganti CMS
+ - Ubah tampilan
+ - forum
+
+Banyakkkkkk.!!!!
+pusyang2 -_-

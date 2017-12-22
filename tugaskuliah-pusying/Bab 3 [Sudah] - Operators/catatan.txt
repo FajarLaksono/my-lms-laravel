@@ -1,0 +1,2 @@
+2016
+- ganti table compound assigment pada artikel operator [done] 
