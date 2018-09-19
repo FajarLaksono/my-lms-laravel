@@ -1,2 +1,2 @@
-# sdcms
-masih Prototype, sementara untuk tugas kuliah.
+# my-lms-laravel
+Project Learning Management System untuk tugas akhir 
