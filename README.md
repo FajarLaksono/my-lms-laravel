@@ -10,7 +10,7 @@ Install and How to use Laravel : https://laravel.com/docs/4.2/quick#installation
 Install and How to use Laravel Project in local : https://gist.github.com/hootlex/da59b91c628a6688ceb1
 
 Instal LMS : 
-1. Extrac the file
+1. Extract the file
 2. create new .env from .env.example, and fill it with you information
 3. run this command for install vendors : composer install
 4. run this command for generate key : php artisan key:generate
